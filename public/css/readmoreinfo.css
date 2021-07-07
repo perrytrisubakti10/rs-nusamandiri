@@ -1,0 +1,57 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.logo-rs img {
+    margin: -10px -15px 0 -20px;
+    width: 80px;
+    height: 50px;
+}
+
+.logo-rs a {
+    color: #1763AE !important;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+}
+
+
+.kategori span {
+    font-size: 20px;
+    font-family: Serif;
+}
+
+.judul h1 {
+    font-weight: bold;
+    width: 900px;
+}
+
+.judul .garis {
+    height: 2px;
+    width: 80px;
+    background: #ffae00;
+}
+
+.waktu-komentar {
+    font-family: Serif;
+    font-size: 20px;
+    margin-bottom: 2px;
+}
+
+.isi-berita img {
+    width: 1000px;
+    height: 450px;
+    background-size: cover;
+}
+
+/* komentar */
+.img-user {
+    width: 65px;
+    height: 65px;
+}

@@ -1,0 +1,133 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.logo-rs img {
+    margin: -10px -15px 0 -20px;
+    width: 80px;
+    height: 50px;
+}
+
+.img-unggulan {
+    width: 200px;
+    height: 200px;
+}
+
+.logo-rs a {
+    color: #1763AE !important;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.img-about {
+    width: 430px;
+    height: 350px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 25px #aaa;
+    background-size: 430px 400px;
+}
+
+#info {
+    padding-top: 40px;
+}
+
+.content-info {
+    margin-top: 100px;
+}
+
+.parallax {
+    margin-top: 10px;
+    /* The image used */
+    background-image: url("../img/rshd3.jpg");
+    filter: brightness(30%);
+
+
+    /* Set a specific height */
+    min-height: 600px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carousel-img {
+    height: 600px;
+}
+
+.slogan {
+    position: absolute;
+    z-index: 3;
+    width: 100%;
+    top: 170px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.slogan .btn-aboutme {
+    padding: 10px 30px;
+    border-radius: 25px;
+    font-size: 15px;
+}
+
+.paralax-slider {
+    filter: brightness(30%);
+}
+
+.gbr1 {
+    background-image: url("../img/rshd.jpg");
+}
+
+.gbr2 {
+    background-image: url("../img/rshd2.jpg");
+}
+
+.gbr3 {
+    background-image: url("../img/rshd3.jpg");
+}
+
+.paralax-slider {
+    margin-top: 10px;
+    min-height: 600px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#ones {
+    height: 500px;
+    background: #aaa;
+}
+
+#ones .card-dokter img {
+    height: 120px;
+    width: 120px;
+}
+
+.medsos .bi:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+.footer {
+    height: 300px;
+    background: #221715;
+    padding-top: 50px;
+}
+
+.footer .garis {
+    margin-top: -10px;
+}
+
+.footer ul {
+    margin-left: -30px
+}
+
+
+.footer ul li {
+    list-style: none;
+}
